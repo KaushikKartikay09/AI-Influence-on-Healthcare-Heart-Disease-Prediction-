@@ -46,3 +46,8 @@ The goal is to assist in early detection and support healthcare decision-making.
 ---
 
 ## 📁 Project Structure
+heart-disease-prediction/
+│
+├── heart-disease.ipynb # Main notebook
+├── model_lgr.pkl # Saved Logistic Regression model
+├── README.md # Project documentation
