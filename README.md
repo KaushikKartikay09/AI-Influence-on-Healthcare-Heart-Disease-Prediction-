@@ -73,7 +73,8 @@ Heart disease remains one of the leading causes of death worldwide, and early de
 - NumPy
 - Matplotlib / Seaborn
 
-** 👥 Contributors**
-Kartikay Kaushik
-Rishi Srivastava
-Preyansh Pranav Sharma
+# 👥 Contributors
+
+- Kartikay Kaushik
+- Rishi Srivastava
+- Preyansh Pranav Sharma
